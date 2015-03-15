@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<circle opacity="0.75" fill="#FFFFFF" stroke="#3F403F" stroke-miterlimit="10" cx="312.3" cy="75" r="71.4"/>
+	<circle fill="#B32024" cx="312.3" cy="75" r="64.9"/>
+	<text transform="matrix(1 0 0 1 255.6755 90.1776)"><tspan x="0" y="0" fill="#010101" font-family="'LeagueGothic-Regular'" font-size="49.1625">You</tspan><tspan x="49.9" y="0" fill="#FFFFFF" font-family="'LeagueGothic-Regular'" font-size="49.1625">Tube</tspan></text>
+</g>
+<g>
+	<circle fill="#1EB7EA" cx="75" cy="270.3" r="64.9"/>
+	<text transform="matrix(1 0 0 1 21.6844 281.5797)" fill="#FFFFFF" font-family="'BlackRose'" font-size="49.1625">vimeo</text>
+	<circle opacity="0.75" fill="none" stroke="#3F403F" stroke-miterlimit="10" cx="75" cy="270.3" r="71.4"/>
+</g>
+<g>
+	<circle fill="#F5DE4F" cx="312.3" cy="270.3" r="64.9"/>
+	<text transform="matrix(1 0 0 1 260.2912 287.1607)" fill="#FFFFFF" font-family="'Impact'" font-size="49.1625">IMDb</text>
+	<circle opacity="0.75" fill="none" stroke="#3F403F" stroke-miterlimit="10" cx="312.3" cy="270.3" r="71.4"/>
+</g>
+<g>
+	<circle opacity="0.75" fill="#484848" cx="75" cy="75" r="64.9"/>
+	<rect x="9.7" y="57.9" fill="none" width="130.7" height="34.1"/>
+	<text transform="matrix(1 0 0 1 24.6707 84.6986)" fill="#FFFFFF" font-family="'BigCaslon-Medium'" font-size="36.8719">credits</text>
+	<circle opacity="0.75" fill="none" stroke="#3F403F" stroke-miterlimit="10" cx="75" cy="75" r="71.4"/>
+</g>
+</svg>
