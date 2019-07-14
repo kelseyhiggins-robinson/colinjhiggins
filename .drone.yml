@@ -4,7 +4,7 @@ pipeline:
     action: deploy
     project: colinjhiggins
     version: "${DRONE_COMMIT}"
-    max_versions: 2
+    max_versions: 4
     secrets:
       - source: google_credentials
         target: GAE_CREDENTIALS
