@@ -2,7 +2,7 @@ pipeline:
   deploy:
     image: nytimes/drone-gae:latest
     action: deploy
-    project: jprbnsn
+    project: colinjhiggins
     version: "${DRONE_COMMIT}"
     max_versions: 2
     secrets:
